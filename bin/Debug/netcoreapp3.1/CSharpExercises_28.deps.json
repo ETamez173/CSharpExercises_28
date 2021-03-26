@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "CSharpExercises_28/1.0.0": {
+        "runtime": {
+          "CSharpExercises_28.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CSharpExercises_28/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
